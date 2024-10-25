@@ -1,6 +1,5 @@
 (ns page-templates
-  (:require [dali.io :as io]
-            [dali.layout.stack])
+  (:require [dali.io :as io])
   (:gen-class))
 
 (def page {:width (- 100 5) :height (- 150 5)})
