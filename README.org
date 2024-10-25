@@ -1,0 +1,10 @@
+#+title: README
+
+* Page Templates
+This repository implements several useful (to me) printable templates, which are mainly aimed to be used as a writing pad, which means you put it under a (blank) page you want to write on for some guidance.
+They could also be used on their own, depending on the specific template.
+
+The project is implemented in `clojure` utilizing `deps.edn`/`clj-tools`.
+
+For development I use [[https://github.com/doomemacs/doomemacs][Doom Emacs]] with [[https://github.com/clojure-emacs/cider][CIDER]].
+Any specifics can be seen in my [[https://github.com/DustVoice/dotfiles][dotfiles]].
