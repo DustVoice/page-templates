@@ -1,4 +1,4 @@
-(ns page-templates
+(ns page-templates.weekly
   (:require [dali.io :as io])
   (:gen-class))
 
